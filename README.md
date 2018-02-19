@@ -5,3 +5,9 @@ This sample application demonstrates use of the Force.com **Feature Management A
 [![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com)
 
 ![Deploy](https://andrewfawcett.files.wordpress.com/2018/01/featureactivate.gif?w=820&zoom=2)
+<br>
+</br>
+<a href="https://githubsfdeploy.herokuapp.com?owner=hiepllp&repo=https://github.com/hiepllp/fmfc">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
